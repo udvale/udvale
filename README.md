@@ -7,12 +7,12 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udvlenkhtaivan@gmail.com)
 
 
-![](https://komarev.com/ghpvc/?username=udvale)
+
 
 
 <!--
 **udvale/udvale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I'm currently enrolled in the Machine Learning Specialization on Coursera. Recently, I have completed a full-stack [Expense Tracker](https://github.com/udvale/Expense-Tracker) application.
+![](https://komarev.com/ghpvc/?username=udvale)
 
 Here are some ideas to get you started:
 
