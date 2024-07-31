@@ -1,6 +1,14 @@
+#### Hi ☺️! I'm Udval, currently a computer science student at Dickinson College.
+##### My primary interests are software/full-stack development and machine learning. I'm currently enrolled in the Machine Learning Specialization on Coursera. Recently, I have completed a full-stack [Expense Tracker](https://github.com/udvale/Expense-Tracker) application.
+
+##### You can reach out to me on:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/udvale)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udvlenkhtaivan@gmail.com)
 
 
-<!--![](https://komarev.com/ghpvc/?username=udvale)-->
+![](https://komarev.com/ghpvc/?username=udvale)
+
 
 <!--
 **udvale/udvale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
