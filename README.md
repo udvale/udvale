@@ -2,12 +2,12 @@
 
 #### I am currently a computer science student at Dickinson College, proficient in programming languages such as Python, JavaScript, and Java. My main focus is on software and full-stack development, along with machine learning. I'm always building and always learning, driven by the goal of creating meaningful and impactful solutions. 
 #### Some Projects I'm working on:
-#### - 💻 Building a **Pomodoro app** with Spotify integration, AI-generated themes, and privacy-focused features.
-#### - 🚀 Implementing my own **CI/CD pipeline using AWS CodePipeline** to streamline deployments.
+- 💻 Building a **Pomodoro app** with Spotify integration, AI-generated themes, and privacy-focused features.
+- 🚀 Implementing my own **CI/CD pipeline using AWS CodePipeline** to streamline deployments.
 
 #### I am currently seeking new graduate opportunities in software development/engineering for 2025. You can reach out to me on:
-#### - 📧 Email: udvlenkhtaivan@gmail.com
-#### - 💼 Linkedin: https://linkedin.com/in/udvale
+- 📧 Email: udvlenkhtaivan@gmail.com
+- 💼 Linkedin: https://linkedin.com/in/udvale
 
 
 
