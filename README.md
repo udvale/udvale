@@ -2,8 +2,7 @@
 
 #### I am a recent graduate with a degree in computer science, proficient in programming languages such as Python, JavaScript, and Java. My main focus is on software and full-stack development, along with machine learning. I also have deep interest in cybersecurity where I have completed intermediate cybersecurity course at Codepath. 
 #### Some Projects I'm working on:
-- 💻 Building a **Pomodoro app** with Spotify integration, AI-generated themes, and privacy-focused features.
-- 🚀 Working on obtaining CompTIA Security+ certification.
+- Building a **Pomodoro app** with Spotify integration, and privacy-focused features.
 
 #### I am currently seeking new graduate opportunities in software development/engineering for 2025. You can reach out to me on:
 - 📧 Email: udvlenkhtaivan@gmail.com
