@@ -1,6 +1,6 @@
 ## Hi! I'm Udval ☺️
 
-#### I am a recent graduate with a degree in computer science, proficient in programming languages such as Python, JavaScript, and Java. My main focus is on software and full-stack development, along with machine learning. I also have deep interest in cybersecurity where I have completed intermediate cybersecurity course at Codepath. 
+#### I am a software engineer proficient in programming languages such as Python, JavaScript/TypeScript, and Java. My main focus is on UI development and full-stack development (front-end leaning), along with AI intergration. I also have deep interest in cybersecurity where I have completed intermediate cybersecurity course at Codepath. 
 
 #### I am currently seeking entry-level opportunities in software development/engineering and cybersecurity. 
 
