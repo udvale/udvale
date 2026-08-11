@@ -1,9 +1,5 @@
 ## Hi! I'm Udval ☺️
 
-#### I am a software engineer proficient in programming languages such as Python, JavaScript/TypeScript, and Java. My main focus is on UI development and full-stack development (front-end leaning), along with AI intergration. I also have deep interest in cybersecurity where I have completed intermediate cybersecurity course at Codepath. 
-
-#### I am currently seeking entry-level opportunities in software development/engineering and cybersecurity. 
-
 
 
 
